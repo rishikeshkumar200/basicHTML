@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    font-family: "Arial", serif;
+    /* background-color: #eaf6f6; */
+}
+
+.heading{
+    text-align: center;
+}
+.title{
+    color: #66bfbf;
+} 
+
+h3{
+    color:#66bfbf;
+}
+
+
+.featureDiv{
+    overflow: hidden;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.text-right{
+    position: relative;
+    left: 300px;
+}
+
+.text-left{
+    position: relative;
+    left: 40px
+}
+.repImageLeft{
+    float: left;
+    width: 30rem;
+    border-radius: 5rem;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+
+.repImageRight{
+    float: right;
+    width: 30rem;
+    border-radius: 5rem;
+    margin-left: 20px;
+    margin-right: 30px;
+}
